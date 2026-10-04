@@ -1,4 +1,4 @@
-# Graphite Keyboard Layout
+# Gallium Keyboard Layout
 
 ### Corne Keymap
 
